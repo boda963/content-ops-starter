@@ -1,4 +1,4 @@
-# Netlify Content Ops Starter 
+https://github.com/boda963/content-ops-starter.git# Netlify Content Ops Starter 
 
 ![Content Ops Starter](https://assets.stackbit.com/docs/content-ops-starter-thumb.png)
 
